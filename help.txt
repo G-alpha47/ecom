@@ -1,0 +1,21 @@
+http://localhost/kailash&co/
+
+Username: admin@admin.com
+Password: password
+
+USER LOGIN:
+
+Username: harry@den.com
+Password: code0
+
+
+
+for tutorial
+
+https://www.youtube.com/watch?v=kIOTtRf9Drk&list=PL-h5aNeRKouEaGrQj6EXaqZsagEphQboI
+
+
+
+for recaptcha
+
+https://www.youtube.com/watch?v=vqksgFwwkd8
